@@ -22,6 +22,7 @@
 
 <p align="center">
   <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#green_heart-executar">Executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#calendar-entrega">Entrega</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
@@ -97,6 +98,21 @@ Imprima em tela o nome e especialidade da primeira tecnologia que o usuário uti
 
 ```
 O usuário Carlos tem 32 anos e usa a tecnologia C++ com especialidade em Desktop
+```
+## :green_heart: Executar
+
+Para rodar a solução desse desafio é preciso ter o [Node.js](https://nodejs.org/) instalado.
+
+```zsh
+cd 01-2
+```
+Executar solução do desafio de objetos
+```zsh
+node object.js
+```
+Executar solução do desafio de vetores
+```zsh
+node vector.js
 ```
 
 ## :calendar: Entrega

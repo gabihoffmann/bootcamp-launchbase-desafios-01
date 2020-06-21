@@ -22,6 +22,7 @@
 
 <p align="center">
   <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#green_heart-executar">Executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#calendar-entrega">Entrega</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
@@ -106,6 +107,18 @@ getHigherTransactionByType("debit"); // { type: 'debit', value: 80 }
 getAverageTransactionValue(); // 70
 
 getTransactionsCount(); // { credit: 2, debit: 2 }
+```
+## :green_heart: Executar
+
+Para rodar a solução desse desafio é preciso ter o [Node.js](https://nodejs.org/) instalado.
+
+```zsh
+cd 01-4
+```
+Executar solução do desafio de operações bancárias
+
+```zsh
+node bankingOperations.js
 ```
 
 ## :calendar: Entrega

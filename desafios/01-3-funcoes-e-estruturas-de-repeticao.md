@@ -22,6 +22,7 @@
 
 <p align="center">
   <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#green_heart-executar">Executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#calendar-entrega">Entrega</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
@@ -129,6 +130,33 @@ No fim exiba todos usuários em telas, seu respectivo saldo e SE o saldo é POSI
 Fulano possui saldo POSITIVO de 43.3
 Sicrano possui saldo NEGATIVO de -90.3
 ```
+## :green_heart: Executar
+
+Para rodar a solução desse desafio é preciso ter o [Node.js](https://nodejs.org/) instalado.
+
+```zsh
+cd 01-3
+```
+Executar solução do desafio de usuários e tecnologias
+
+```zsh
+node showTechs.js
+```
+Executar solução do desafio de busca por tecnologia
+
+```zsh
+node searchTechs.js
+```
+Executar solução do desafio de soma de despesas
+
+```zsh
+node sale.js
+```
+O arquivo loop-for.js apresenta diferentes formas de iterar com o laço for
+
+```zsh
+node loop-for.js
+``` 
 
 ## :calendar: Entrega
 
