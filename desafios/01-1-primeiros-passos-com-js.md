@@ -18,10 +18,15 @@
     <img alt="License" src="https://img.shields.io/badge/license-MIT-%23F8952D">
   </a>
 
+<a href="https://www.linkedin.com/in/agfhoffmann/">
+    <img alt="Made by Gabi Hoffmann" src="https://img.shields.io/badge/madeby-Gabi%20Hoffmann-ff69b4">
+  </a>
+
 </p>
 
 <p align="center">
   <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#greenheart-executar">Executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#calendar-entrega">Entrega</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
@@ -94,6 +99,21 @@ if (condicao1) {
 } else {
   // Condição 1 não passou
 }
+```
+## :green_heart: Executar
+
+Para rodar a solução desse desafio é preciso ter o [Node.js](https://nodejs.org/) instalado.
+
+```zsh
+cd 01-1
+```
+Executar solução do desafio IMC
+```zsh
+node imc.js
+```
+Executar solução do desafio Aposentadoria
+```zsh
+node retirement.js
 ```
 
 ## :calendar: Entrega

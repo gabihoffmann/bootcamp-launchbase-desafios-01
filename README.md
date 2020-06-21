@@ -18,6 +18,10 @@
     <img alt="License" src="https://img.shields.io/badge/license-MIT-%23F8952D">
   </a>
 
+  <a href="https://www.linkedin.com/in/agfhoffmann/">
+    <img alt="Made by Gabi Hoffmann" src="https://img.shields.io/badge/madeby-Gabi%20Hoffmann-ff69b4">
+  </a>
+
 </p>
 
 <p align="center">
